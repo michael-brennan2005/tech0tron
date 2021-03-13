@@ -1,1 +1,1 @@
-i think im a roblox programmer idk
+Been developing since December 2020. Primary areas are in Roblox Lua and Rust. Live in Colorado
